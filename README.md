@@ -2,17 +2,19 @@
 
 MS Marketing Intelligence candidate at Fordham University (Gabelli School of Business).
 
-I'm interested in data analytics, marketing insights, and the intersection of analytics with media, entertainment, and consumer platforms.
+I'm interested in **marketing analytics, data-driven decision making, and analytics applications in media, entertainment, and consumer platforms.**
 
 ---
 
-## Skills
+## Tools & Technologies
 
-Python  
-Pandas  
-Data Analysis  
-Data Visualization  
-Marketing Analytics  
+![Python](https://img.shields.io/badge/Python-Analytics-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-orange)
+![SQL](https://img.shields.io/badge/SQL-Data%20Querying-blue)
+![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-purple)
+![Excel](https://img.shields.io/badge/Excel-Analytics-green)
+![SPSS](https://img.shields.io/badge/SPSS-Statistical%20Analysis-yellow)
+![Google%20Analytics](https://img.shields.io/badge/Google%20Analytics-Marketing%20Analytics-red)
 
 ---
 
@@ -24,22 +26,46 @@ Data-driven analysis of Uber ride performance across NYC zones and rider segment
 
 Key insights from the analysis:
 
-- Riders aged 18–22 cancel significantly more often than other segments.
-- Longer wait times strongly increase cancellation probability.
-- The Bronx shows the longest average wait times and the highest cancellation rates.
+• Riders aged **18–22 cancel significantly more often**, with a 24% cancellation rate compared to the 14.6% overall average  
+• **Wait time strongly influences cancellations**, particularly in high-demand zones  
+• The **Bronx shows the longest average wait times and highest cancellation rates**, highlighting operational supply-demand imbalance
 
-Repository:
+Repository:  
 https://github.com/Cremmell/uber-case-study
 
 ---
 
 ## Education
 
-Fordham University  
-MS Marketing Intelligence
+**Fordham University – Gabelli School of Business**  
+MS in Marketing Intelligence (Expected August 2026)
+
+Relevant coursework:  
+Marketing Analytics  
+Programming with Python  
+Marketing Machine Learning Models :contentReference[oaicite:0]{index=0}
+
+---
+
+## Certifications
+
+Google Data Analytics Professional Certificate  
+Google Analytics Certification  
+Google Ads Search Certification  
+Google Ads Measurement Certification  
+Generative AI Optimization Certification :contentReference[oaicite:1]{index=1}
+
+---
+
+## Professional Background
+
+Before transitioning into analytics, I worked in research and recruiting roles focused on financial services and investment research, where I conducted industry research, sourced experts, and facilitated due diligence calls for investment firms. :contentReference[oaicite:2]{index=2}
+
+This experience strengthened my interest in **data-driven insights and analytical problem solving**, leading me to pursue graduate studies in marketing intelligence and analytics.
 
 ---
 
 ## Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/chris-remmell/
+LinkedIn  
+https://linkedin.com/in/chris-remmell
