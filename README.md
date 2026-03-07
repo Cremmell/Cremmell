@@ -43,7 +43,7 @@ MS in Marketing Intelligence (Expected August 2026)
 Relevant coursework:  
 Marketing Analytics  
 Programming with Python  
-Marketing Machine Learning Models :contentReference[oaicite:0]{index=0}
+Marketing Machine Learning Models 
 
 ---
 
@@ -53,13 +53,13 @@ Google Data Analytics Professional Certificate
 Google Analytics Certification  
 Google Ads Search Certification  
 Google Ads Measurement Certification  
-Generative AI Optimization Certification :contentReference[oaicite:1]{index=1}
+Generative AI Optimization Certification 
 
 ---
 
 ## Professional Background
 
-Before transitioning into analytics, I worked in research and recruiting roles focused on financial services and investment research, where I conducted industry research, sourced experts, and facilitated due diligence calls for investment firms. :contentReference[oaicite:2]{index=2}
+Before transitioning into analytics, I worked in client services and recruiting roles focused on financial services and investment research, where I conducted industry research, sourced experts, and facilitated due diligence calls for investment firms. 
 
 This experience strengthened my interest in **data-driven insights and analytical problem solving**, leading me to pursue graduate studies in marketing intelligence and analytics.
 
