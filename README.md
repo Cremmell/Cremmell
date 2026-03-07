@@ -18,7 +18,7 @@ I'm interested in **marketing analytics, data-driven decision making, and analyt
 
 ---
 
-## Featured Project
+## Featured Projects
 
 ### Uber NYC Rider Experience Case Study
 
