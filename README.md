@@ -16,6 +16,10 @@ I'm interested in **marketing analytics, data-driven decision making, and analyt
 ![SPSS](https://img.shields.io/badge/SPSS-Statistical%20Analysis-yellow)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-Marketing%20Analytics-red)
 ![Google Ads](https://img.shields.io/badge/Google%20Ads-Paid%20Search%20Analytics-green)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-OLS%20Regression-blue)
+![NLTK/VADER](https://img.shields.io/badge/NLTK%2FVADER-Sentiment%20Analysis-purple)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-orange)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-red)
 
 ---
 
@@ -98,7 +102,8 @@ Google Data Analytics Professional Certificate
 Google Analytics Certification  
 Google Ads Search Certification  
 Google Ads Measurement Certification  
-Generative AI Optimization Certification  
+Generative AI Optimization Certification
+CAMS (Certificated ANA Marketing Student)
 
 ---
 
