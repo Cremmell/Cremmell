@@ -51,7 +51,7 @@ https://github.com/Cremmell/nyc-bite-week-marketing-analytics
 
 ---
 
-### Instagram Engagement Analytics — Marketing Analytics Competition 2026
+## Instagram Engagement Analytics — Marketing Analytics Competition 2026
 Data-driven analysis of Instagram engagement drivers across 5,975 posts from 47 top creators using OLS regression and NLP-based text feature extraction.
 
 Key insights from the analysis:
