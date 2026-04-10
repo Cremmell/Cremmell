@@ -65,7 +65,8 @@ Key insights from the analysis:
 
 🏆 *Milestone Achiever Award & Finalist — Fordham Gabelli Marketing Analytics Competition 2026*
 
-Repository: https://github.com/Cremmell/instagram-engagement-analysis
+Repository: 
+https://github.com/Cremmell/instagram-engagement-analysis
 
 ---
 
