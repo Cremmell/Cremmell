@@ -51,6 +51,20 @@ https://github.com/Cremmell/nyc-bite-week-marketing-analytics
 
 ---
 
+### Instagram Engagement Analytics — Marketing Analytics Competition 2026
+Data-driven analysis of Instagram engagement drivers across 5,975 posts from 47 top creators using OLS regression and NLP-based text feature extraction.
+
+Key insights from the analysis:
+- Album posts outperform single photos by 15.2% and videos underperform photos by 65% — format is the single most actionable content lever
+- Creator identity alone explains 45% of engagement variation, confirmed by creator fixed effects increasing R² from 0.163 to 0.618
+- @ mentions negatively correlate with engagement, suggesting audiences disengage from sponsored content regardless of caption quality
+
+🏆 *Milestone Achiever Award & Finalist — Fordham Gabelli Marketing Analytics Competition 2026*
+
+Repository: https://github.com/Cremmell/instagram-engagement-analysis
+
+---
+
 # Education
 
 **Fordham University – Gabelli School of Business**  
